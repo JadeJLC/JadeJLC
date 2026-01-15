@@ -2,7 +2,7 @@
 <meta name="keywords" content="Full Stack, Front-End, Back-End, Zone01, Alternance">
 <meta name="author" content="Jade Colanges">
 
-# Salut, moi c'est Jade !
+# Je suis Jade Colanges
 
 <div align="center">
 
