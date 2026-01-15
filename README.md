@@ -67,20 +67,21 @@ J'apprends le HTML et le CSS depuis plus de 15 ans en autodidacte. La direction 
 
 ---
 
-### En cours d'aprentissage / perfectionnement
+### En cours d'aprentissage
 - **Javascript**
 - **Docker**
 
 ---
 
-##  Expertise
+##  Compétences
 
 <div align="center">
 
 | Web Design | Serveurs | Créativité |
-|:--:|:--:|:--:|
+|:---:|:---:|:---:|
 | HTML |  Go | Écriture |
-| CSS |  | Traduction |
+| CSS | Docker | Traduction |
+| JS |  | Pixel Art |
 
 </div>
 
