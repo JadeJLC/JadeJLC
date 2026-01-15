@@ -93,11 +93,9 @@ J'apprends le HTML et le CSS depuis plus de 15 ans en autodidacte. La direction 
 - Je suis à la recherche d'une alternance dans le cadre de ma formation à Zone01, à compter de juin 2026 et jusqu'à juin 2028.
 
 
-N'hésitez pas à me contacter !
-
 <div align="center">
 
-### Restons connectés
+### N'hésitez pas à me contacter !
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jadejlc.github.io/Portfolio/?lang=fr&domain=dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jade.colanges@live.fr)
