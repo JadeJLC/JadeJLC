@@ -48,13 +48,19 @@ J'apprends le HTML et le CSS depuis plus de 15 ans en autodidacte. La direction 
 
 <div align="center">
 
-| 🎮 **Deadline Invaders** | 🎮 **HamsterCare** | 
+| 🎮 **Discord In The Office** | 🎮 **HamsterCare** | 
 |:---:|:---:|
-| Jeu vidéo inspiré de Space Invaders. Un collègue désagréable a rejoint votre équipe. Terminez vos projet sans le laisser les saboter !| Un tamagotchi web. Prenez soin d'un hamster. Nourrissez-le, donnez-lui à boire, occupez-le et gardez-le en vie !  | 
-| `JAVASCRIPT` `CSS` `HTML` | `JAVASCRIPT` `CSS` `HTML` | 
+| Forum associé à la série Project Nightmare, utilisant les personnages et l'ambiance du jeu Deadline Invaders. | Un tamagotchi web. Prenez soin d'un hamster. Nourrissez-le, donnez-lui à boire, occupez-le et gardez-le en vie !  | 
+| `JAVASCRIPT` `CSS` `HTML` `GO` | `JAVASCRIPT` `CSS` `HTML` | 
 </div>
 
 ### Projets récents
+
+- **Project Nightmare : Deadline Invaders** - Jeu vidéo inspiré de Space Invaders. Un collègue désagréable a rejoint votre équipe. Terminez vos projet sans le laisser les saboter !
+    - Système de jeu, collision et animations
+    - Cinématiques personnalisées (texte + animation pixel art)
+    - Powerups, gestion des scores
+    - `JAVASCRIPT` `CSS` `HTML`
 
 - **Petites Victoires** - Forum de développement personnel. Profitez des petites joies de la vie et partagez vos réussites.
     - Poster, répondre et like/dislike des messages
