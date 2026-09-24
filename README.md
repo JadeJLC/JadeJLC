@@ -87,8 +87,9 @@ J'apprends le HTML et le CSS depuis plus de 15 ans en autodidacte. La direction 
 ---
 
 ### En cours d'aprentissage
-- **Javascript**
-- **Docker**
+- **Java**
+- **Rust**
+- **Angular**
 
 ---
 
@@ -100,7 +101,7 @@ J'apprends le HTML et le CSS depuis plus de 15 ans en autodidacte. La direction 
 |:---:|:---:|:---:|
 | HTML |  Go | Écriture |
 | CSS | Docker | Traduction |
-| JS |  | Pixel Art |
+| JS | Java | Pixel Art | 
 
 </div>
 
