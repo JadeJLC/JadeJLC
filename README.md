@@ -17,7 +17,7 @@
 
 ## À propos de moi
 
-Développeuse en formation, passionnée par la création, le design et la conception, avec une expertise de 6 ans en traduction/localisation de projets d'envergure (Ubisoft, SEGA). Double compétence technique et linguistique pour des produits numériques internationaux.
+Développeuse en formation, passionnée par la création, le design et la conception, avec une expertise de 7 ans en traduction/localisation de projets d'envergure (Ubisoft, SEGA). Double compétence technique et linguistique pour des produits numériques internationaux.
 
 J'apprends le HTML et le CSS depuis plus de 15 ans en autodidacte. La direction était toute trouvée pour une reconversion professionnelle, et j'ai décidé d'en faire mon métier.
 
@@ -31,6 +31,8 @@ J'apprends le HTML et le CSS depuis plus de 15 ans en autodidacte. La direction 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### DevOps
@@ -48,13 +50,25 @@ J'apprends le HTML et le CSS depuis plus de 15 ans en autodidacte. La direction 
 
 <div align="center">
 
-| 🎮 **Discord In The Office** | 🎮 **HamsterCare** | 
+| 🎮 **Hack'em'back** | 🎮 **Language Barrier** | 
 |:---:|:---:|
-| Forum associé à la série Project Nightmare, utilisant les personnages et l'ambiance du jeu Deadline Invaders. | Un tamagotchi web. Prenez soin d'un hamster. Nourrissez-le, donnez-lui à boire, occupez-le et gardez-le en vie !  | 
-| `JAVASCRIPT` `CSS` `HTML` `GO` | `JAVASCRIPT` `CSS` `HTML` | 
+| Jeu multijoueur en PvP inspiré de bomberman, suite de Project Nightmare: Deadline Invaders, où l'on joue l'ancien antagoniste.  | Jeu coop de labyrinthe et énigmes bilatérales, où les personnages ne parlent pas la même langue et ne peuvent communiquer que par gestes et symboles
+| `JAVASCRIPT` `CSS` `HTML` `JAVA` | `JAVASCRIPT` `CSS` `HTML` `VUE.JS` `PHASER`| 
 </div>
 
 ### Projets récents
+
+- **Puppet framework** - Mini-framework de manipulation du DOM en SPA
+     - Création, suppression et mise à jour en direct des éléments
+     - Création simplifiée d'événements
+     - Exemple de ToDoMVC associé
+
+- **Project Nightmare : Discord in the Office** - Forum associé à la série Project Nightmare, utilisant les personnages et l'ambiance du jeu Deadline Invaders.
+    - Authentification sécurité
+    - Messages privés via websockets
+    - Poster, répondre, réagir à des messages
+    - Profil personnel et profil public
+    -  `GO` `DOCKER` `HTML` `CSS` `Sqlite` `JavaScript`
 
 - **Project Nightmare : Deadline Invaders** - Jeu vidéo inspiré de Space Invaders. Un collègue désagréable a rejoint votre équipe. Terminez vos projet sans le laisser les saboter !
     - Système de jeu, collision et animations
@@ -69,7 +83,6 @@ J'apprends le HTML et le CSS depuis plus de 15 ans en autodidacte. La direction 
     - Authentification par Discord, Google et Github
     - `GO` `DOCKER` `HTML` `CSS` `Sqlite`
 
-<!-- Répétez pour d'autres projets -->
 
 ---
 
